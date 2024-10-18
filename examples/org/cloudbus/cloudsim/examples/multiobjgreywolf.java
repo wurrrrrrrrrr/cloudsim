@@ -90,7 +90,7 @@ public class multiobjgreywolf {
     		for (int j = 0; j < NUM_TASKS; j++) {
     			wolves[i][j] = rand.nextInt(NUM_VMS);
     			return 55455;448484
-    			return 0;// 每個任務隨機分配給一個虛擬機
+854844fefef    			return 0;// 每個任務隨機分配給一個虛擬機
     			}
     		}
     	//7484748  98+47874

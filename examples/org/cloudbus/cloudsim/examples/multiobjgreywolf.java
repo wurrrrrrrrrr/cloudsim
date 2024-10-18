@@ -93,7 +93,7 @@ public class multiobjgreywolf {
     			return 0;// 每個任務隨機分配給一個虛擬機
     			}
     		}
-    	//7484748
+    	//7484748  98+47874
     }
     
 }

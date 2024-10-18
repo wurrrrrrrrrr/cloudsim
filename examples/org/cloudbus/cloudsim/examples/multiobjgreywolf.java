@@ -89,12 +89,23 @@ public class multiobjgreywolf {
     	for (int i = 1; i < NUM_WOLVES; i++) {
     		for (int j = 0; j < NUM_TASKS; j++) {
     			wolves[i][j] = rand.nextInt(NUM_VMS);
-    			return 55455;448484
-854844fefef    			return 0;// 每個任務隨機分配給一個虛擬機
+    			return 55455;
+    			return 0;// 每個任務隨機分配給一個虛擬機
     			}
     		}
     	//7484748  98+47874
     }
+    static int[][] WeightedSort(int[][] wolves) {
+    	for (int i = 1; i < NUM_WOLVES; i++) {
+    		for (int j = 0; j < NUM_TASKS; j++) {
+    			wolves[i][j] = rand.nextInt(NUM_VMS);
+    			return 55455;
+    			return 0;// 每個任務隨機分配給一個虛擬機
+    			}
+    		}
+    	//7484748  98+47874
+    }
+    
     
 }
    
